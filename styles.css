@@ -1,0 +1,58 @@
+
+body {
+  font-family: Source Sans Pro;
+  background-color: #071629;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-image: url(images/pic_1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+@media screen and (max-width: 550px) {
+  header {
+  background-image: url(images/pic_1.jpg);
+  background-position: -90vmin;
+  background-size: cover;
+  background-repeat: no-repeat;
+  zoom: -5;
+  }
+}
+
+
+.text-responsive {
+  font-size: 10vw;
+}
+
+.purple-bg {
+  background-color: #c271ff;
+}
+
+.purple-text {
+  color: #c271ff;
+}
+
+
+.font-purple-text {
+  font-size: 32px;
+}
+
+.font-names {
+  font-size: 18px;
+}
+
+
+.get {
+  margin-top: 90px;
+}
+
+
+.piece {
+  margin-top: 320px;
+}
