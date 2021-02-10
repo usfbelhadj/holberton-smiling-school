@@ -56,3 +56,29 @@ header {
 .piece {
   margin-top: 320px;
 }
+
+.Carousel {
+  height: 392px;
+  background-color: #C271FF;
+}
+
+.carousel-img {
+  position: relative;
+  margin-top: 100px;
+  margin-left: 250px;
+
+}
+
+.quotes-text {
+  position: relative;
+  margin-top: 120px;
+}
+
+.arrow {
+  margin-top: 100px;
+
+}
+
+.carousel-font {
+  font-size: 22px;
+}
