@@ -90,3 +90,8 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+[class^='holberton_school-icon-ic'] {
+  font-size: 30px;
+  color: #ffffff;
+}
