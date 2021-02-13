@@ -154,3 +154,7 @@ header {
   font-family: 'Source Sans Pro';
   font-size: 60px;
 }
+
+.gray-text {
+  color: gray;
+}
