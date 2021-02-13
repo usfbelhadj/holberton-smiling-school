@@ -128,3 +128,24 @@ header {
 .go {
   font-size: 60px;
 }
+
+.holberton_school-icon-check {
+  font-size: 30px;
+  color: #80c456;
+}
+
+.gray-bg {
+  background-color: #979797;
+}
+
+.prince-font {
+  font-size: 44px;
+}
+
+.prince-font2 {
+  font-size: 12px;
+}
+
+.text-font {
+  font-size: 18px;
+}
