@@ -95,3 +95,36 @@ header {
   font-size: 30px;
   color: #ffffff;
 }
+
+.pricing {
+  background-image: url(images/pic_2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+@media screen and (max-width: 550px) {
+  .pricing {
+  background-image: url(images/pic_2.jpg);
+  background-position: -90vmin;
+  background-size: cover;
+  background-repeat: no-repeat;
+  zoom: -5;
+  }
+}
+
+.act {
+  border-bottom: 3px solid #FFFFFF;
+  border-width: 4px;
+  border-radius: 1.5px;
+}
+
+.logo {
+  font-size: 40px;
+}
+
+.go {
+  font-size: 60px;
+}
