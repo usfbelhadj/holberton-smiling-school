@@ -158,3 +158,26 @@ header {
 .gray-text {
   color: gray;
 }
+
+.courses {
+  background-image: url(images/pic_3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+@media screen and (max-width: 550px) {
+  .courses {
+  background-image: url(images/pic_3.jpg);
+  background-position: -90vmin;
+  background-size: cover;
+  background-repeat: no-repeat;
+  zoom: -5;
+  }
+}
+
+.subtitles{
+  font-family: 'Coiny', cursive;
+}
